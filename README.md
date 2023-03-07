@@ -1,10 +1,9 @@
-# DJANGO DARAJA API INTEGRATION
+# Django Daraja API STKPush Integration
 
 This is a simple RESTful project that integrates Safaricom daraja API and performs an STKPush.
 
 ## Author
 
-👤 **Author**
 - Kelvin Mburu
 
 - GitHub: [Kelvin Mburu](https://github.com/kelvinmburu)
@@ -53,15 +52,10 @@ Lipa na M-Pesa
 
 [Link]( https://documenter.getpostman.com/view/23533434/2s93CLstja)
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Pull requests are welcome. Please open an issue first to discuss what you want to implement
 
 ## License
 
-[MIT](LICENSE.md) licensed.
+[MIT](LICENSE.md)
