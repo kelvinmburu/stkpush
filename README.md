@@ -49,7 +49,7 @@ Lipa na M-Pesa
 
 ## Live Demo
 
-[Link]( https://documenter.getpostman.com/view/23533434/2s93CLstja)
+[Link]( https://documenter.getpostman.com/)
 
 ## Contributing
 
