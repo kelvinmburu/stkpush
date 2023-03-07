@@ -1,27 +1,27 @@
 # DJANGO DARAJA API INTEGRATION
 
-Integrates Safaricom daraja API and performs an STKPush.
+This is a simple RESTful project that integrates Safaricom daraja API and performs an STKPush.
 
 ## Author
 
 👤 **Author**
-- Nixon Kipkorir Koech
+- Kelvin Mburu
 
-- GitHub: [@Koech-code](https://github.com/Koech-code)
+- GitHub: [Kelvin Mburu](https://github.com/kelvinmburu)
 
 ## Technologies Used
 
-- PYTHON `3.6`
-- DJANGO 
-- DJANGO REST FRAMEWORK
-- MySql
+- Python `3.10`
+- Django
+- Django REST Framework
+- MySQL
 
 ### Installation Process
 
 - Clone the repository using the link below
 
 ```
-$ git clone https://github.com/Koech-code/STKpush.git
+$ git clone https://github.com/kelvinmburu/stkpush
 
 ```
 
@@ -32,9 +32,9 @@ $ git clone https://github.com/Koech-code/STKpush.git
   ```
 - Run the application using;
   ```
-  python3.6 manage.py runserver
+  python3 manage.py runserver
   ```
-- Test it if its working using;
+- Test if its working using;
   ```
   python3.6 manage.py test
   ```
@@ -43,10 +43,10 @@ $ git clone https://github.com/Koech-code/STKpush.git
 
 ## Usage
 
-```python
-Register 
-Login 
-Lipanampesa
+```
+Python
+Signin/up
+Lipa na M-Pesa
 ```
 
 ## Live Demo
@@ -57,17 +57,10 @@ Lipanampesa
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Thank the Lord for the far He has been with me all through this job search journey.
-- I would like to acknowledge Moringa school for giving me this opportunity to learn software development.
-- Appreciations to  my TM `Nancy Umutoniwase and Gilbert Cheboi` for the support they gave me.
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
-.
 
 ## License
 
