@@ -19,28 +19,27 @@ This is a simple RESTful project that integrates Safaricom daraja API and perfor
 
 - Clone the repository using the link below
 
-```
-$ git clone https://github.com/kelvinmburu/stkpush
-
-```
-
-- Create a directory and install the requirements
+  ```
+  git clone https://github.com/kelvinmburu/stkpush
 
   ```
-  pip install -r requirements.txt
+- Create a directory and install the dependencies
+
   ```
-- Run the application using;
+  pip install -r requirements.txt - Installs all related dependencies (Activate the virtual env first)
+  ```
+- Run the application:
   ```
   python3 manage.py runserver
   ```
-- Test if its working using;
+- Test the project:
   ```
-  python3.6 manage.py test
+  python3 manage.py test
   ```
 - Open the application on your browser , preferably `chrome` at port `127.0.0.1:8000`
 
 
-## Usage
+## Use Application
 
 ```
 Python
@@ -54,7 +53,7 @@ Lipa na M-Pesa
 
 ## Contributing
 
-Pull requests are welcome. Please open an issue first to discuss what you want to implement
+PRs are welcome. Please open an issue first to discuss what you want to implement.
 
 ## License
 
